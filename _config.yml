@@ -1,9 +1,9 @@
 # Site settings
 title: XOR - Cyber Community
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  XOR është komunitet virtual , themeluar dhe ndërtuar nga një grup i profesionisteve me një sfond
+  divers ne fushën e teknologjisë informatike me theks te veçante ne Sigurinë Kibernetike (Cyber Security).
+  Këta njerëz dëshirojnë qe këto aftësi dhe përvojat qe bartin ti kthejnë në të mirë të komunitetit
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://x0rsec.github.io/" # the base hostname & protocol for your site
