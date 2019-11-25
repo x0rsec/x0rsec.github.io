@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUJDES - Phishing"
+title: "Fushata e phishingut synon vjedhjen e llogarive bankare ne Kosove"
 categories: [lajme, analiza]
 ---
 
