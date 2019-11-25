@@ -38,10 +38,14 @@ Domain për momentin është aktiv dhe gjithashtu posedon SSL Certifikaten të l
 
 ## Përmbajtja e Web Faqes
 
-Faqja mashtruese është e klonuar nga faqja zyrtare e Raiffeisen Bank. versioni i faqes mashtruese duket të jetë version i viteve paraprake sepse versioni aktual i bankes është tjeter në krahasim me faqen mashtruese. Shih foton më poshte te faqes mashtruese.
+Faqja mashtruese është e klonuar nga faqja zyrtare e Raiffeisen Bank. Versioni i faqes mashtruese duket të jetë version i viteve paraprake sepse versioni aktual i bankes është tjeter në krahasim me faqen mashtruese. Shih foton më poshte.
 
 ![image6]({{ site.baseurl }}/images/home.png){:.images}
 
+
+## Mos e hap
+
+Nëse keni pranuar ndonjë email nga ky domain, ju lutem të kontaktoni Raiffeisen Banken.
 
 
 ## Këshillat për mbrojtje nga Phishing-u.
@@ -49,10 +53,10 @@ Faqja mashtruese është e klonuar nga faqja zyrtare e Raiffeisen Bank. versioni
 
 -> Duhet të keni kujdes në cdo email qe ju vije , nese keni dyshime ju lutem mos e hape.
 
--> Mos klikoni çdo link qe e shihni ne permbajtjen të email-it.
+-> Mos klikoni çdo link qe e shihni ne permbajtje të email-it.
 
 -> Instaloni filtra **"Anti Phishing"** neper browseret e juaj.
 
 
 
-Për çfar do këshilla na kontaktoni në email **cert@xor.al**
+Për çfar do këshilla na kontaktoni në email **community@xor.al**
