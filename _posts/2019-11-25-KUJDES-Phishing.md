@@ -36,22 +36,23 @@ Domain për momentin është aktiv dhe gjithashtu posedon SSL Certifikaten të l
 
 ![image6]({{ site.baseurl }}/images/ssl.png){:.images}
 
-## Permbajtja e Web Faqes
+## Përmbajtja e Web Faqes
 
-Faqja mashtruese është e klonuar nga faqja zyrtare e Raiffeisen Bank. versioni i faqes mashtruese duket te jetë version i viteve paraprake sepse versioni aktual i bankes eshte tjeter ne krahasim me faqen mashtruese. Shih foton me poshte te faqes mashtruese.
+Faqja mashtruese është e klonuar nga faqja zyrtare e Raiffeisen Bank. versioni i faqes mashtruese duket të jetë version i viteve paraprake sepse versioni aktual i bankes është tjeter në krahasim me faqen mashtruese. Shih foton më poshte te faqes mashtruese.
 
 ![image6]({{ site.baseurl }}/images/home.png){:.images}
 
 
 
-## Keshillat për mbrojtje nga Phishing-u.
+## Këshillat për mbrojtje nga Phishing-u.
 
 
-**-> Duhet të keni kujdes në cdo email qe ju vije , nese keni dyshime ju lutem mos e hape.*
+-> Duhet të keni kujdes në cdo email qe ju vije , nese keni dyshime ju lutem mos e hape.
 
-**-> Mos klikoni cdo link qe e shihni ne permbajtjen e email-it.**
+-> Mos klikoni çdo link qe e shihni ne permbajtjen të email-it.
 
-**-> Instaloni Filtra apo aplikacione speciale te cilat e bjen te mundur zbulimin e ketyre domainave addressave.**
+-> Instaloni filtra **"Anti Phishing"** neper browseret e juaj.
 
-**-> Nese keni dyshime per ndonje email te quditshem i cili ka ardhur ne posten tuaj ju lirisht mund te beni forward ne email adresen tone dhe
-stafi jon e kontrollon , emaila eshte cert@xor.al**
+
+
+Për çfar do këshilla na kontaktoni në email **cert@xor.al**
