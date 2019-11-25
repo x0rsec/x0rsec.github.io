@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Configuring Frida with BurpSuite and Genymotion to bypass SSL Pinning"
-categories: [lajme, analiza]
+categories: [analiza]
 ---
 ## Configuring Frida with BurpSuite and Genymotion to bypass Android SSL Pinning
 
@@ -171,5 +171,5 @@ Now we can continue testing our prefered application with BurpSuite or your favo
 *Thank you for reading this and I hope that you'll find it helpful*
 &nbsp;
 
-This article is written from our member <a href="https://twitter.com/spenkk">Spenkk
+This article is written from our member <a href="https://twitter.com/spenkkkkk">Spenkk
 &nbsp;
