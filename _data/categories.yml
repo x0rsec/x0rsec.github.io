@@ -1,8 +1,11 @@
-- slug: design
-  name: Design
+- slug: lajme
+  name: Lajme
 
-- slug: tools
-  name: Tools
+- slug: analiza
+  name: Analiza
 
-- slug: productivity
-  name: Productivity
+- slug: evente
+  name: Evente
+
+- slug: sponzorat
+  name: Sponzorat
