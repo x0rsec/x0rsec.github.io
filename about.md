@@ -41,6 +41,6 @@ Fingerprint: **35FC 201D 1AFA BADD C6C3 5DEA CE7B 833D 9AFB 05DF**
 
 Email: **community@xor.al**
 
-Facebook: [Facebook](https://www.fb.com/xorcyber/)
+Facebook: [XOR](https://www.fb.com/xorcyber/)
 
-Twitter: [Twitter](https://twitter.com/xorcyber)
+Twitter: [XOR](https://twitter.com/xorcyber)
