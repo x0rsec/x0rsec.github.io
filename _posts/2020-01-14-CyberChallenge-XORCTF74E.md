@@ -63,13 +63,13 @@ Fituesi do të pajiset me një certifikatë nga sponsori si dhe me vlerën e fit
 
 Wallencore (www.wallencore.com) është korporatë Kanadeze e cila ofron zgjidhje dhe shërbime inovative të sigurisë kibernetike, si dhe posedon laborator me akreditim Amerikan për testim të softuerëve. Wallencore, me 2019 ka hapur zyrën në Prishtinë dhe punëson staf për pentesting dhe zhvillues aplikacionesh (kryesisht për nevoja te veta).
 
-![Wallencore]({{ site.baseurl }}https://xor.al/images/Wallencore-Logo_500.png){:.images}
+![Wallencore]({{ site.baseurl }}/images/Wallencore-Logo_500.png){:.images}
 
 ## Kujtesa - Sponsor teknik i garës
 
 Kujtesa ofron zgjidhje të cilësisë së lartë për tregun Kosovar në fushat e internetit, televizionit digjital dhe telefonisë fikse. Ne jemi gjithmonë në hap me risite e teknologjisë botërore, dhe të parët për ti realizur ato në Kosovë.
 
-![Wallencore]({{ site.baseurl }}https://xor.al/images/logo_600x472.png){:.images}
+![Kujtesa]({{ site.baseurl }}/images/logo_600x472.png){:.images}
 
 ## Kontakt:
 
