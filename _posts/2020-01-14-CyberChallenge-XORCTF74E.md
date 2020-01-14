@@ -71,6 +71,16 @@ Kujtesa ofron zgjidhje të cilësisë së lartë për tregun Kosovar në fushat 
 
 ![Kujtesa]({{ site.baseurl }}/images/logo_600x472.png){:.images}
 
+## Kontribues i veçantë: 
+
+VALDET HAJDARI - Graphic Designer 
+
+Kreator i Logos së XOR-it.
+
+![ValdetHajdari]({{ site.baseurl }}/images/valdet_hajdari.png){:.images}
+
+
+
 ## Kontakt:
 
 Për çdo pyetje mund të na shkruani në ctf@xor.al
