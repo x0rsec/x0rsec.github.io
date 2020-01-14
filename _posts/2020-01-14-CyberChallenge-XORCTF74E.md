@@ -38,7 +38,7 @@ Shkelja e këtyre rregullave do të thotë diskualifikim i menjëhershëm i ekip
 Rregulli më i rëndësishëm: Argëtohuni :)!
 
 Regjistrimi në CTF bëhet përmes uebfaqes në vijim:
-https://ctf.xor.al/
+[CTF](https://ctf.xor.al)
 
 ## Çmimet:
 
