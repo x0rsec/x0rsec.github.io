@@ -71,6 +71,12 @@ Kujtesa ofron zgjidhje të cilësisë së lartë për tregun Kosovar në fushat 
 
 ![Kujtesa]({{ site.baseurl }}/images/logo_600x472.png){:.images}
 
+## PCWorld Albanian - Sponsor medial
+
+PC World Albanian, lajmi i fundit për Teknologjinë e Informacionit, Komunikimit dhe Sigurisë Kibernetike në shqip. PCWA është botuar për herë të parë në Qershor 2008 si revistë për Teknologjinë e Informacionit dhe Komunikimit, sjellur në shqip nga ICTSmedia me mbulim të të gjitha trevave shqiptare.
+
+![Kujtesa]({{ site.baseurl }}/images/pcworld.png){:.images}
+
 ## Kontribues i veçantë: 
 
 VALDET HAJDARI - Graphic Designer 
